@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f4f8;
+}
+
+.custom-button {
+    background-color: #4f46e5;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+}
